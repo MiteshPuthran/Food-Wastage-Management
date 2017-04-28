@@ -1,0 +1,124 @@
+Username : Password
+_____________________
+System Admin
+1)sysadmin: sysadmin
+______________________
+Restaurant Admin
+1)dba: dba
+2)doba: doba
+3)snya: snya
+4)ddnya: ddnya
+5)pba: pba
+6)phba: phba
+7)abpnua: abpnua
+8)upba: upba
+________________________
+Restaurant Manager
+1)dbm : dbm
+2)dobm : dobm
+3)snym : snym
+4)ddnym :ddnym
+5)pbm: pbm
+6)phbm: phbm
+7)abpm: abpm
+8)uhm: uhm
+_________________________
+Restaurant Worker
+1)dbw1 : dbw1
+2)dbw2 : dbw2
+3)dbw3: dbw3
+
+1)dobw1: dobw1
+2)dobw2: dobw2
+3)dobw3: dobw3
+
+1)snyw1: snyw1
+2)snyw2: snyw2
+3)snyw3: snyw3
+
+1)ddnyw1: ddnyw1
+2)ddnyw2: ddnyw2
+3)ddnyw3: ddnyw3
+
+1)pbw1: pbw1
+2)pbw2: pbw2
+3)pbw3: pbw3
+
+1)phbw1: phbw1
+2)phbw2: phbw2
+3)phbw3: phbw3
+
+1)abpw1: abpw1
+2)abpw2: abpw2
+3)abpw3: abpw3
+
+1)uhw1: uhw1
+2)uhw2: uhw2
+3)uhw3: uhw3
+_______________________
+Logistics Admin
+1)uba: uba
+2)fba: fba
+3)unya: unya
+4)fnya: fnya
+_______________________
+Logistics Manager
+1)fbm: fbm
+2)ubm: ubm
+3)fnym: fnym
+4)unym: unym
+________________________
+Logistics Worker
+1)fbw1: fbw1
+2)fbw2: fbw2
+3)fbw3: fbw3
+
+1)ubw1: ubw1
+2)ubw2: ubw2
+3)ubw3: ubw3
+
+1)fnyw1: fnyw1
+2)fnyw2: fnyw2
+3)fnyw3: fnyw3
+
+1)unyw1: unyw1
+2)unyw2: unyw2
+3)unyw3: unyw3
+_______________________
+NGO Admin
+1)nuha: nuha
+2)gba: gba
+3)nyha: nyha
+4)gnya: gnya
+_______________________
+NGO Manager
+1)nuhm: nuhm
+2)gbm: gbm
+3)nyhm: nyhm
+4)gnym: gnym
+________________________
+NGO Worker
+1)nuhw1: nuhw1
+2)nuhw2: nuhw2
+3)nuhw3: nuhw3
+
+1)nyhw1: nyhw2
+2)nyhw2: nyhw2
+3)nyhw3: nyhw3
+
+1)gbw1: gbw1
+2) gbw2: gbw2
+3)gbw3: gbw3
+
+1)gnyw1: gnyw1
+2)gnyw2: gnyw2
+3)gnyw3: gnyw3
+________________________
+Government Admin
+1) bga: bga
+2) nga: nga
+________________________
+Government Manager
+1)bgm: bgm
+2)ngm: ngm
+________________________
