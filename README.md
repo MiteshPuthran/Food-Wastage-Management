@@ -1,6 +1,4 @@
-# Application-Developement
-
-## Project Name: Food Wastage Management
+# Food Wastage Management
 ### Domain: Food services management
 #### Description: Food Waste is a massive problem. One third of all food produced in the world goes to waste. From restaurant scraps, to grocers disposing of imperfect produce, to spoiled food, roughly $400B in food ends up in landfills every year resulting in 3.3 billion metric tons of greenhouse gases annually. (ref: http://foodtechconnect.com/2015/10/09/10-startups-reducing-food-waste-one-byte-at-a-time/)
 #### At the same time, worldwide nearly 800 million people do not have enough to eat. That means one in nine people are suffering from hunger. Hunger and malnutrition are the number one risk to health worldwide. (ref: https://www.foodbanking.org/hunger-food-banking/about-hunger/global-hunger)
